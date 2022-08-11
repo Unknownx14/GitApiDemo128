@@ -13,6 +13,10 @@ public class RESTAPITest {
 		System.out.println("Github practise 01");
 		System.out.println("Github practise 02");
 		
+		System.out.println("Github practise 03 X");
+		System.out.println("Github practise 04 X");
+		System.out.println("Github practise 05 X");
+		
 		
 	}
 	

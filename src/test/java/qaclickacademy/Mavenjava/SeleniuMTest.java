@@ -9,7 +9,7 @@ public class SeleniuMTest {
 	public void BrowserAutomation()
 	{
 		
-		System.out.println("BrowserAutomation");
+		System.out.println("Changes made by X user");
 		
 	}
 	
