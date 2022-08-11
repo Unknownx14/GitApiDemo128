@@ -10,6 +10,9 @@ public class RESTAPITest {
 	{
 		
 		System.out.println("postJira");
+		System.out.println("Github practise 01");
+		System.out.println("Github practise 02");
+		
 		
 	}
 	
