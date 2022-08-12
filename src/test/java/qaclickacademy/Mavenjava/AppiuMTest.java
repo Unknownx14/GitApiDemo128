@@ -13,6 +13,14 @@ public class AppiuMTest {
 		
 	}
 	
+	@Test
+	public void NativeAppAndoridYuser()
+	{
+		
+		System.out.println("NativeAppAndorid");
+		
+	}
+	
 	
 	@Test
 	public void IOSApps()

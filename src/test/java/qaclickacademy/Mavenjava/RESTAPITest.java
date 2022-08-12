@@ -31,5 +31,14 @@ public class RESTAPITest {
 	}
 	
 	
+	@Test
+	public void deleteTwitterYuser()
+	{
+		
+		System.out.println("deleteTwitter");
+		
+	}
+	
+	
 	
 }
